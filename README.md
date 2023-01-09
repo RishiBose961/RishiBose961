@@ -2,7 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<br/>  
 
+
+<br /><br/>  
+
+
+<br />
 ## <div align="center">I'm Rishi Bose, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
   
 
@@ -133,5 +139,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
