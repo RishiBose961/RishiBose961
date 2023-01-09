@@ -9,7 +9,8 @@
 
 
 <br />
-## <div align="center">I'm Rishi Bose, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
+
+<div align="center">I'm Rishi Bose, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working on MERN STACK  
