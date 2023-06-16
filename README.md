@@ -31,6 +31,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RishiBose961&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RishiBose961&icon=0&color=0)](https://vidmit.cyclic.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
