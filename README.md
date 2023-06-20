@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;border-radius: 10%;" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://i.pinimg.com/originals/e2/01/fe/e201fecab309152d4fc871c3cd97fb6d.gif)" align="center" style="width: 100%;border-radius: 10%;" />
 </div> 
 <h1 align="center">Hi 👋, I'm Rishi Bose</h1>
 <h3 align="center">A passionate Frontend/Backend developer and Full Stack Web Developer from India</h3>
