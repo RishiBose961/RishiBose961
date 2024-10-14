@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rishi Bose</h1>
-<h3 align="center">A passionate Frontend/Backend developer and Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Frontend/Backend developer and Full Stack Web and React Native Developer from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning React Native,spline<br><br>👨‍💻 All of my projects are available at // /<br><br>💬 Ask me about Reactjs ,Mern Stack<br><br>📫 How to reach me rishibose1901@gmail.com
