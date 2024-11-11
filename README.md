@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="210" width="950" src="https://firebasestorage.googleapis.com/v0/b/rishibose1901-f5ff6.appspot.com/o/Rishi%20Bose.png?alt=media&token=b744e8cf-9c8e-4be0-95f9-8eb42cf44cdb"  />
+</div>
+
 # 💫 About Me:
 <img align="right" height="170" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif"  />
 🌱 I’m currently learning React Native,spline<br><br>👨‍💻 All of my projects are available at Loading<br><br>💬 Ask me about Reactjs ,Mern Stack<br><br>📫 How to reach me rishibose1901@gmail.com
