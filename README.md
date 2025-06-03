@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning React Native,spline<br><br>👨‍💻 All of my projects are available at [Portfolio](https://rishibose.fun/)<br><br>💬 Ask me about Reactjs , Expo , Mern Stack<br><br>📫 How to reach me rishibose1901@gmail.com
+🌱 I’m currently learning React Native,spline<br><br>👨‍💻 All of my projects are available at [Portfolio](https://rishibose.fun/)<br><br>💬 Ask me about Reactjs , Expo , Mern Stac,Electron Vitek<br><br>📫 How to reach me rishibose1901@gmail.com
 
 
 
