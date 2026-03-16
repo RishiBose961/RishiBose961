@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="210" width="950" src="https://firebasestorage.googleapis.com/v0/b/rishibose1901-f5ff6.appspot.com/o/Rishi%20Bose.png?alt=media&token=b744e8cf-9c8e-4be0-95f9-8eb42cf44cdb"  />
-</div>
+</div> -->
 
 # 💫 About Me:
 
